@@ -1,6 +1,7 @@
 /**
  * SYST 17796 Project Base code.
  * @author LazyPencils (Yihang Lin)
+ * @author chprince11 (Prince Chauhan)
  * Add your name as an author and the date!
  */
 package ca.sheridancollege.project;
