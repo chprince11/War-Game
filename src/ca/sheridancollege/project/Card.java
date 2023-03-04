@@ -1,12 +1,12 @@
 /**
- * SYST 17796 Project Base code.
+ * SYST 17796 War Game project base code.
  * @author LazyPencils (Yihang Lin)
  * @author chprince11 (Prince Chauhan)
  * Add your name as an author and the date!
  */
 package ca.sheridancollege.project;
 
-/**
+/*
  * A class to be used as the base Card class for the project. Must be general
  * enough to be instantiated for any Card
  * game. Students wishing to add to the code should remember to add themselves
