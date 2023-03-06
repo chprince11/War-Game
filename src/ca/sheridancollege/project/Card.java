@@ -1,29 +1,16 @@
 /**
  * SYST 17796 War Game project base code.
- * @author LazyPencils (Yihang Lin)
- * @author chprince11 (Prince Chauhan)
- * Add your name as an author and the date!
+ * 
+ * @author chprince11 (Prince Chauhan) 06 Feb 2023
+ * @author LazyPencils (Yihang Lin) 06 Feb 2023
+ * @author balkaran10 (Balkaran Singh) 06 Feb 2023
+ * @author Haimanyu (Haimanyu Haimanyu) 06 Feb 2023
  */
+
 package ca.sheridancollege.project;
 
-/*
- * A class to be used as the base Card class for the project. Must be general
- * enough to be instantiated for any Card
- * game. Students wishing to add to the code should remember to add themselves
- * as a modifier.
- *
- * @author dancye
- */
 public class Card 
 {
-    // default modifier for child classes
-
-    /**
-     * Students should implement this method for their specific children classes
-     *
-     * @return a String representation of a card. Could be an UNO card, a regular
-     *         playing card etc.
-     */
 
     private int rank;
     private String suit;
