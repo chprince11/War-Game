@@ -19,7 +19,7 @@ public class Game
     public static void main(String[] args)
     {
          Player player1 = new Player("Balkaran");
-         Player player2 = new Player("Brar");
+         Player player2 = new Player("Prince");
 
          ArrayList<Card> pot = new ArrayList<>();
          Deck deck = new Deck();
