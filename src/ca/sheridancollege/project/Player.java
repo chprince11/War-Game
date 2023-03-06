@@ -1,16 +1,14 @@
 /**
- * SYST 17796 Project Base code.
- * Students can modify and extend to implement their game.
- * Add your name as an author and the date!
+ * SYST 17796 War Game project base code.
+ * 
+ * @author chprince11 (Prince Chauhan) 06 Feb 2023
+ * @author LazyPencils (Yihang Lin) 06 Feb 2023
+ * @author balkaran10 (Balkaran Singh) 06 Feb 2023
+ * @author Haimanyu (Haimanyu Haimanyu) 06 Feb 2023
  */
+
 package ca.sheridancollege.project;
 
-/**
- * A class that models each Player in the game. Players have an identifier, which should be unique.
- *
- * @author dancye
- * @author Paul Bonenfant Jan 2020
- */
 import java.util.ArrayList;
 
 public class Player 
